@@ -1,3 +1,3 @@
 # calculator_project
 
-A new Flutter project.
+An iphone calculator UI using flutter
